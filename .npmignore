@@ -1,9 +1,5 @@
 node_modules
 .editorconfig
-.eslintignore
-.eslintrc.json
 .gitignore
 .npmignore
-.prettierignore
-.prettierrc.toml
 yarn.lock
