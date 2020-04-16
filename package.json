@@ -1,6 +1,6 @@
 {
   "name": "gid-by-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a group's GID by name",
   "repository": "https://github.com/gfmio/gid-by-name",
   "license": "MIT",
